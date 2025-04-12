@@ -1,0 +1,8 @@
+streamlit
+pdfplumber
+google-generativeai
+python-dotenv
+pandas
+streamlit-lottie
+python-dateutil
+google-cloud
